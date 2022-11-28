@@ -1,4 +1,4 @@
-package sim.solar; 
+//package sim.solar; 
 import sim.solar.planet.*; 
 import java.awt.*;
 import java.util.ArrayList; 
