@@ -1,9 +1,6 @@
 package sim.solar; 
 import sim.solar.planet.*; 
-import sim.solar.*;
-import java.awt.Graphics;
-import java.awt.Color;
-import java.awt.Dimension;
+import java.awt.*;
 import javax.swing.JPanel;
 
 class Simulation extends JPanel implements Runnable {
