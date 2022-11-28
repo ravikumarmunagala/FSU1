@@ -1,8 +1,6 @@
 package sim.solar; 
 import sim.solar.planet.*; 
-
-import java.awt.Color;
-import java.awt.Graphics;
+import java.awt.*;
 import java.util.ArrayList; 
 
 class SolarSystem   {
